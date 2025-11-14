@@ -56,5 +56,35 @@ export const database = {
             diet: "Small crustaceans & worms",
             image: "https://www.abyssaquatics.co.uk/wp-content/uploads/2024/10/Yellowtail_Coris_Wrasse_Male.jpg"
         }
+    ],
+    tips: [ 
+    {
+        topic: "Water Temperature",
+        text: "Maintain a consistent water temperature between 75–80°F (24–27°C) for most tropical fish to prevent stress and illness."
+    },
+    {
+        topic: "Tank Setup",
+        text: "Provide plenty of hiding spaces and live rock to mimic a natural reef environment and make fish feel secure."
+    },
+    {
+        topic: "Feeding",
+        text: "Feed a balanced diet with both protein and plant-based foods. Offer small portions 2–3 times per day to avoid overfeeding."
+    },
+    {
+        topic: "Water Quality",
+        text: "Perform regular water changes and monitor pH, salinity, and ammonia levels to keep the tank environment healthy."
+    },
+    {
+        topic: "Lighting",
+        text: "Use a consistent light schedule of about 10–12 hours per day to simulate natural daylight and support fish and coral health."
+    },
+    {
+        topic: "Tank Companions",
+        text: "Research fish compatibility before adding new species to avoid aggression and territorial behavior."
+    },
+    {
+        topic: "Filtration and Oxygenation",
+        text: "Use a reliable filtration system and ensure proper water movement to keep oxygen levels high and waste levels low."
+    }
     ]
 }
