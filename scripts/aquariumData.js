@@ -86,5 +86,32 @@ export const database = {
         topic: "Filtration and Oxygenation",
         text: "Use a reliable filtration system and ensure proper water movement to keep oxygen levels high and waste levels low."
     }
-    ]
+    ],
+    locations: [
+    {
+        name: "Great Barrier Reef",
+        country: "Australia",
+        description: "The Great Barrier Reef is the world's largest coral reef system, supporting thousands of fish species and vibrant coral ecosystems."
+    },
+    {
+        name: "Indo-Pacific Coral Reefs",
+        country: "Indonesia, Philippines, Papua New Guinea",
+        description: "The Indo-Pacific region is home to some of the most biodiverse reefs on Earth, with warm tropical waters and extensive coral coverage."
+    },
+    {
+        name: "Indo-Pacific Reefs",
+        country: "Maldives, Fiji, Tonga",
+        description: "A vast marine region filled with clear waters and colorful coral formations, ideal habitats for reef-dwelling fish."
+    },
+    {
+        name: "Tropical Tidepools & Reefs",
+        country: "Hawaii, Polynesia, Micronesia",
+        description: "These shallow coastal zones offer a mix of rocky tidepools and coral reefs that support schooling and territorial fish species."
+    },
+    {
+        name: "Indo-Pacific Reef Slopes",
+        country: "Fiji, Samoa, Cook Islands",
+        description: "Reef slopes descend from shallow coral gardens into deeper ocean habitats, providing rich feeding grounds for wrasses and angelfish."
+    }
+  ]
 }
