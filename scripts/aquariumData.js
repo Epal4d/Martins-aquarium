@@ -6,7 +6,7 @@ export const database = {
             length: 3,
             location: "Great Barrier Reef",
             diet: "Omnivore",
-            image: "https://example.com/images/nemo.jpg"
+            image: "https://www.algaebarn.com/wp-content/uploads/2020/10/shutterstock_391864198-768x512.jpg"
         },
         {
             name: "Dory",
@@ -14,7 +14,7 @@ export const database = {
             length: 5,
             location: "Great Barrier Reef",
             diet: "Omnivore",
-            image: "https://example.com/images/dory.jpg"
+            image: "https://www.coralmagazine.com/wp-content/uploads/2023/02/Paracanthurus-hepatus-adult.jpg"
         },
         {
             name: "Regal",
@@ -22,7 +22,7 @@ export const database = {
             length: 12,
             location: "Indo-Pacific Coral Reefs",
             diet: "Sponges & small invertebrates",
-            image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Emperor_angelfish_adult.jpg"
+            image: "https://worldwidecorals.com/cdn/shop/files/1100536.jpg?v=1757700381&width=1200"
         },
         {
             name: "Gill",
@@ -30,7 +30,7 @@ export const database = {
             length: 8,
             location: "Indo-Pacific Reefs",
             diet: "Sponges, algae, coral polyps",
-            image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Moorish_Idol_Zanclus_cornutus.jpg"
+            image: "https://www.liveaquaria.com/images/categories/large/lg_77633_Moorish_Idol.jpg"
         },
         {
             name: "Spot",
@@ -38,7 +38,7 @@ export const database = {
             length: 7,
             location: "Tropical tidepools & reefs",
             diet: "Algae & small plankton",
-            image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Abudefduf_sordidus.jpg"
+            image: "https://fishesofaustralia.net.au/images/image/AbudefdufSordidusAALewis.jpg"
         },
         {
             name: "Banner",
@@ -46,7 +46,7 @@ export const database = {
             length: 10,
             location: "Indo-Pacific Reefs",
             diet: "Zooplankton",
-            image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Heniochus_diphreutes.JPG"
+            image: "https://fishesofaustralia.net.au/Images/Image/HeniochDiphreutDPolack.jpg"
         },
         {
             name: "Wrassy",
@@ -54,7 +54,7 @@ export const database = {
             length: 12,
             location: "Indo-Pacific Reef Slopes",
             diet: "Small crustaceans & worms",
-            image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Coris_gaimard_juvenile.jpg"
+            image: "https://www.abyssaquatics.co.uk/wp-content/uploads/2024/10/Yellowtail_Coris_Wrasse_Male.jpg"
         }
     ]
 }
