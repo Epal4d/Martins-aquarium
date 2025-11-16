@@ -3,7 +3,7 @@ import { database } from "./aquariumData.js";
 const tips = database.tips
 
 export const tipList = () => {
-    let tipListHTML = '<ul class="tips">'
+    let tipListHTML = '<h1>Tips</h1><br><ul class="tips">'
         for (const tip of tips) {
             tipListHTML += `
                 <li>
