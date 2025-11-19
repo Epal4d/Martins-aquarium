@@ -62,7 +62,7 @@ export const database = {
             length: 4,
             location: "Pacific Ocean",
             diet: "Algae & small invertebrates",
-            image: "https://example.com/images/flame-angel.jpg"
+            image: ""
         },
         {
             name: "Stripe",
