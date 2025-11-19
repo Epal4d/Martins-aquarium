@@ -62,7 +62,7 @@ export const database = {
             length: 4,
             location: "Pacific Ocean",
             diet: "Algae & small invertebrates",
-            image: ""
+            image: "./images/flameAngelfish.jpg"
         },
         {
             name: "Stripe",
@@ -70,7 +70,7 @@ export const database = {
             length: 6,
             location: "Indo-Pacific Reefs",
             diet: "Small crustaceans & worms",
-            image: "https://example.com/images/copperband.jpg"
+            image: "./images/copperbandButterflyfish.jpg"
         },
         {
             name: "Luna",
@@ -78,7 +78,7 @@ export const database = {
             length: 9,
             location: "Indian Ocean",
             diet: "Herbivore",
-            image: "https://example.com/images/powder-blue.jpg"
+            image: "./images/powderBlueTang.jpg"
         },
         {
             name: "Shadow",
@@ -86,7 +86,7 @@ export const database = {
             length: 3,
             location: "Indo-Pacific Lagoons",
             diet: "Zooplankton",
-            image: "https://example.com/images/firefish.jpg"
+            image: "./images/purpleFirefish.jpg"
         },
         {
             name: "Sunny",
@@ -94,7 +94,8 @@ export const database = {
             length: 5,
             location: "Western Pacific",
             diet: "Small invertebrates",
-            image: "https://example.com/images/yellow-goby.jpg"
+            image: "./images/yellowWatchmanGoby.jpg"
+            
         },
         {
             name: "Dash",
@@ -102,7 +103,7 @@ export const database = {
             length: 3,
             location: "Red Sea",
             diet: "Small crustaceans",
-            image: "https://example.com/images/royal-dottyback.jpg"
+            image: "./images/royalDottyback.jpg"
         },
         {
             name: "Azure",
@@ -110,7 +111,7 @@ export const database = {
             length: 4,
             location: "Caribbean Reefs",
             diet: "Zooplankton",
-            image: "https://example.com/images/blue-chromis.jpg"
+            image: "images/blueChromis.jpg"
         },
         {
             name: "Rocket",
@@ -118,7 +119,7 @@ export const database = {
             length: 3,
             location: "Red Sea & Indo-Pacific",
             diet: "Small invertebrates",
-             image: "https://example.com/images/sixline-wrasse.jpg"
+             image: "./images/sixLineWrasse.jpg"
         }
         ],
     tips: [ 

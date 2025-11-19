@@ -44,7 +44,7 @@ main {
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    flex: 0 0 30%;
+    flex: 0 0 33%;
     padding: 1rem;
     align-self: flex-start;
   
