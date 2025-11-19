@@ -55,8 +55,72 @@ export const database = {
             location: "Indo-Pacific Reef Slopes",
             diet: "Small crustaceans & worms",
             image: "https://www.abyssaquatics.co.uk/wp-content/uploads/2024/10/Yellowtail_Coris_Wrasse_Male.jpg"
+        },
+        {
+            name: "Coral",
+            species: "Flame Angelfish",
+            length: 4,
+            location: "Pacific Ocean",
+            diet: "Algae & small invertebrates",
+            image: "https://example.com/images/flame-angel.jpg"
+        },
+        {
+            name: "Stripe",
+            species: "Copperband Butterflyfish",
+            length: 6,
+            location: "Indo-Pacific Reefs",
+            diet: "Small crustaceans & worms",
+            image: "https://example.com/images/copperband.jpg"
+        },
+        {
+            name: "Luna",
+            species: "Powder Blue Tang",
+            length: 9,
+            location: "Indian Ocean",
+            diet: "Herbivore",
+            image: "https://example.com/images/powder-blue.jpg"
+        },
+        {
+            name: "Shadow",
+            species: "Purple Firefish",
+            length: 3,
+            location: "Indo-Pacific Lagoons",
+            diet: "Zooplankton",
+            image: "https://example.com/images/firefish.jpg"
+        },
+        {
+            name: "Sunny",
+            species: "Yellow Watchman Goby",
+            length: 5,
+            location: "Western Pacific",
+            diet: "Small invertebrates",
+            image: "https://example.com/images/yellow-goby.jpg"
+        },
+        {
+            name: "Dash",
+            species: "Royal Dottyback",
+            length: 3,
+            location: "Red Sea",
+            diet: "Small crustaceans",
+            image: "https://example.com/images/royal-dottyback.jpg"
+        },
+        {
+            name: "Azure",
+            species: "Blue Chromis",
+            length: 4,
+            location: "Caribbean Reefs",
+            diet: "Zooplankton",
+            image: "https://example.com/images/blue-chromis.jpg"
+        },
+        {
+            name: "Rocket",
+            species: "Six Line Wrasse",
+            length: 3,
+            location: "Red Sea & Indo-Pacific",
+            diet: "Small invertebrates",
+             image: "https://example.com/images/sixline-wrasse.jpg"
         }
-    ],
+        ],
     tips: [ 
     {
         topic: "Water Temperature",
@@ -87,31 +151,31 @@ export const database = {
         text: "Use a reliable filtration system and ensure proper water movement to keep oxygen levels high and waste levels low."
     }
     ],
-    locations: [
-    {
-        name: "Great Barrier Reef",
-        country: "Australia",
-        description: "The Great Barrier Reef is the world's largest coral reef system, supporting thousands of fish species and vibrant coral ecosystems."
-    },
-    {
-        name: "Indo-Pacific Coral Reefs",
-        country: "Indonesia, Philippines, Papua New Guinea",
-        description: "The Indo-Pacific region is home to some of the most biodiverse reefs on Earth, with warm tropical waters and extensive coral coverage."
-    },
-    {
-        name: "Indo-Pacific Reefs",
-        country: "Maldives, Fiji, Tonga",
-        description: "A vast marine region filled with clear waters and colorful coral formations, ideal habitats for reef-dwelling fish."
-    },
-    {
-        name: "Tropical Tidepools & Reefs",
-        country: "Hawaii, Polynesia, Micronesia",
-        description: "These shallow coastal zones offer a mix of rocky tidepools and coral reefs that support schooling and territorial fish species."
-    },
-    {
-        name: "Indo-Pacific Reef Slopes",
-        country: "Fiji, Samoa, Cook Islands",
-        description: "Reef slopes descend from shallow coral gardens into deeper ocean habitats, providing rich feeding grounds for wrasses and angelfish."
-    }
+locations: [
+{
+    name: "Great Barrier Reef",
+    country: "Australia",
+    description: "The Great Barrier Reef is the world's largest coral reef system, supporting thousands of fish species and vibrant coral ecosystems."
+},
+{
+    name: "Indo-Pacific Coral Reefs",
+    country: "Indonesia, Philippines, Papua New Guinea",
+    description: "The Indo-Pacific region is home to some of the most biodiverse reefs on Earth, with warm tropical waters and extensive coral coverage."
+},
+{
+    name: "Indo-Pacific Reefs",
+    country: "Maldives, Fiji, Tonga",
+    description: "A vast marine region filled with clear waters and colorful coral formations, ideal habitats for reef-dwelling fish."
+},
+{
+    name: "Tropical Tidepools & Reefs",
+    country: "Hawaii, Polynesia, Micronesia",
+    description: "These shallow coastal zones offer a mix of rocky tidepools and coral reefs that support schooling and territorial fish species."
+},
+{
+    name: "Indo-Pacific Reef Slopes",
+    country: "Fiji, Samoa, Cook Islands",
+    description: "Reef slopes descend from shallow coral gardens into deeper ocean habitats, providing rich feeding grounds for wrasses and angelfish."
+}
   ]
 }
